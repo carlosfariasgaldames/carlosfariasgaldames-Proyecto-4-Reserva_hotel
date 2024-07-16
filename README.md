@@ -10,13 +10,9 @@ Bootcamp Fullstack / COHORT 14, 2024
 
 En este proyecto, se desarrolla una  app de servicios CRUD para el servicio de hoteles, principalmente para sistema de reservas.
 Tecnologías: Visual Studio Code, Git y GitHub.
-Git, Git Hub.
 
 
 Bootcamp Fullstack / COHORT 14, 2024
-
-Tecnologias:
-Visual Studio Code, Git, Git Hub
 
 Authors
 Nombre: Carlos Farias Galdames
