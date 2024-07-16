@@ -1,0 +1,21 @@
+{
+  "name": "entrega-de-proyecto_4_reservas-hoteleras",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Farias",
+  "license": "ISC",
+  "description": "entrega proyecto 4 proyecto_4_reservas",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
